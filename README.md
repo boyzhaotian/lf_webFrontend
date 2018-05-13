@@ -1,6 +1,6 @@
 # 学习笔记_WEB前端
 
-LearningFile 系列笔记 lf_webFrontend 前端笔记仓库。
+LearningFiles 系列笔记 lf_webFrontend 前端笔记仓库。
 
 建立此仓库一方面是让自己可以方便地在不同设备上回顾，修改；
 
