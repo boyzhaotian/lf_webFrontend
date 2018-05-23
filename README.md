@@ -19,4 +19,4 @@ TIPS：如需转载笔记内容请标记下出处喔
     - 规范 README.md 内容
 
 # LICENSE
-MIT
+[MIT](LICENSE)
